@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>4WT</string>
+			</array>
+			<key>CFBundleTypeIconFile</key>
+			<string>4D Write Temp.icns</string>
+			<key>CFBundleTypeName</key>
+			<string>4D Write Template</string>
+			<key>CFBundleTypeOSTypes</key>
+			<array>
+				<string>4WRT</string>
+			</array>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>com.4d.4dwrite.template</string>
+			</array>
+			<key>LSTypeIsPackage</key>
+			<false/>
+			<key>NSPersistentStoreTypeKey</key>
+			<string>Binary</string>
+		</dict>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>4WR</string>
+			</array>
+			<key>CFBundleTypeIconFile</key>
+			<string>4D Write Doc.icns</string>
+			<key>CFBundleTypeName</key>
+			<string>4D Write Document</string>
+			<key>CFBundleTypeOSTypes</key>
+			<array>
+				<string>4WR7</string>
+			</array>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>com.4d.4dwrite.doc</string>
+			</array>
+			<key>LSTypeIsPackage</key>
+			<false/>
+			<key>NSPersistentStoreTypeKey</key>
+			<string>Binary</string>
+		</dict>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>TXT</string>
+			</array>
+			<key>CFBundleTypeIconFile</key>
+			<string>4D Write TXT.icns</string>
+			<key>CFBundleTypeName</key>
+			<string>Text only</string>
+			<key>CFBundleTypeOSTypes</key>
+			<array>
+				<string>TEXT</string>
+			</array>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>com.4d.4dwrite.txt</string>
+			</array>
+			<key>LSTypeIsPackage</key>
+			<false/>
+			<key>NSPersistentStoreTypeKey</key>
+			<string>Binary</string>
+		</dict>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>RTF</string>
+			</array>
+			<key>CFBundleTypeIconFile</key>
+			<string>4D Write RTF.icns</string>
+			<key>CFBundleTypeName</key>
+			<string>RTF Format</string>
+			<key>CFBundleTypeOSTypes</key>
+			<array>
+				<string>RTF </string>
+			</array>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>com.4d.4dwrite.rtf</string>
+			</array>
+			<key>LSTypeIsPackage</key>
+			<false/>
+			<key>NSPersistentStoreTypeKey</key>
+			<string>Binary</string>
+		</dict>
+	</array>
+	<key>CFBundleExecutable</key>
+	<string>4D Write</string>
+	<key>CFBundleIconFile</key>
+	<string>4D Write.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.4D.4DWrite</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>4D Write</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>11.3 (54662)</string>
+	<key>CFBundleSignature</key>
+	<string>4DW7</string>
+	<key>CFBundleVersion</key>
+	<string>11.3</string>
+	<key>CSResourcesFileMapped</key>
+	<true/>
+	<key>UTExportedTypeDeclarations</key>
+	<array>
+		<dict>
+			<key>UTTypeConformsTo</key>
+			<array>
+				<string>public.data</string>
+			</array>
+			<key>UTTypeDescription</key>
+			<string>4D Write Template Document</string>
+			<key>UTTypeIconFile</key>
+			<string>4D Write Temp.icns</string>
+			<key>UTTypeIdentifier</key>
+			<string>com.4d.4dwrite.template</string>
+			<key>UTTypeTagSpecification</key>
+			<dict>
+				<key>com.apple.ostype</key>
+				<string>4WRT</string>
+				<key>public.filename-extension</key>
+				<string>4WT</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>UTTypeConformsTo</key>
+			<array>
+				<string>public.data</string>
+			</array>
+			<key>UTTypeDescription</key>
+			<string>4D Write Document</string>
+			<key>UTTypeIconFile</key>
+			<string>4D Write Doc.icns</string>
+			<key>UTTypeIdentifier</key>
+			<string>com.4d.4dwrite.doc</string>
+			<key>UTTypeTagSpecification</key>
+			<dict>
+				<key>com.apple.ostype</key>
+				<string>4WR7</string>
+				<key>public.filename-extension</key>
+				<string>4WR</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>UTTypeConformsTo</key>
+			<array>
+				<string>public.data</string>
+			</array>
+			<key>UTTypeDescription</key>
+			<string>Text Document</string>
+			<key>UTTypeIconFile</key>
+			<string>4D Write Txt.icns</string>
+			<key>UTTypeIdentifier</key>
+			<string>com.4d.4dwrite.txt</string>
+			<key>UTTypeTagSpecification</key>
+			<dict>
+				<key>com.apple.ostype</key>
+				<string>TEXT</string>
+				<key>public.filename-extension</key>
+				<string>txt</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>UTTypeConformsTo</key>
+			<array>
+				<string>public.data</string>
+			</array>
+			<key>UTTypeDescription</key>
+			<string>RTF Document</string>
+			<key>UTTypeIconFile</key>
+			<string>4D Write RTF.icns</string>
+			<key>UTTypeIdentifier</key>
+			<string>com.4d.4dwrite.rtf</string>
+			<key>UTTypeTagSpecification</key>
+			<dict>
+				<key>com.apple.ostype</key>
+				<string>RTF </string>
+				<key>public.filename-extension</key>
+				<string>RTF</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
