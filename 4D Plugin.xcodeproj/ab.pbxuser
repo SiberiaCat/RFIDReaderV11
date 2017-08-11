@@ -1,0 +1,207 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Deployment;
+		activeTarget = 8D01CCC60486CAD60068D4B7 /* RFIDReader */;
+		addToTargets = (
+			8D01CCC60486CAD60068D4B7 /* RFIDReader */,
+		);
+		codeSenseManager = 20329A0C1F3D8FEF003CB316 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					807,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					919,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					879,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 524128208;
+			PBXWorkspaceStateSaveDate = 524128208;
+		};
+		perUserProjectItems = {
+			20329A5B1F3D93D0003CB316 /* PlistBookmark */ = 20329A5B1F3D93D0003CB316 /* PlistBookmark */;
+			20329A5C1F3D93D0003CB316 /* PBXTextBookmark */ = 20329A5C1F3D93D0003CB316 /* PBXTextBookmark */;
+			20329A5E1F3D93D0003CB316 /* PBXTextBookmark */ = 20329A5E1F3D93D0003CB316 /* PBXTextBookmark */;
+			20329A5F1F3D93D0003CB316 /* PBXTextBookmark */ = 20329A5F1F3D93D0003CB316 /* PBXTextBookmark */;
+			20329A701F3D94B3003CB316 /* PBXTextBookmark */ = 20329A701F3D94B3003CB316 /* PBXTextBookmark */;
+			20329A711F3D94B3003CB316 /* PBXTextBookmark */ = 20329A711F3D94B3003CB316 /* PBXTextBookmark */;
+			20329A751F3D94CE003CB316 /* PBXTextBookmark */ = 20329A751F3D94CE003CB316 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 20329A0B1F3D8FEF003CB316 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	089C167EFE841241C02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1097, 698}}";
+			sepNavSelRange = "{191, 0}";
+			sepNavVisRange = "{0, 191}";
+		};
+	};
+	20329A0B1F3D8FEF003CB316 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	20329A0C1F3D8FEF003CB316 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	20329A0E1F3D9014003CB316 /* 4DPlugin.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1097, 1976}}";
+			sepNavSelRange = "{306, 0}";
+			sepNavVisRange = "{0, 1167}";
+		};
+	};
+	20329A0F1F3D9014003CB316 /* reader.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1097, 2808}}";
+			sepNavSelRange = "{5231, 0}";
+			sepNavVisRange = "{1534, 1880}";
+		};
+	};
+	20329A101F3D9014003CB316 /* reader.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1097, 754}}";
+			sepNavSelRange = "{635, 0}";
+			sepNavVisRange = "{3, 1090}";
+		};
+	};
+	20329A5B1F3D93D0003CB316 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D01CCD10486CAD60068D4B7 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Development/Plugins/RFIDReaderV11/Info.plist;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	20329A5C1F3D93D0003CB316 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 20329A5D1F3D93D0003CB316 /* pcsclite.h */;
+		name = "pcsclite.h: 144";
+		rLen = 31;
+		rLoc = 4354;
+		rType = 0;
+		vrLen = 2634;
+		vrLoc = 3452;
+	};
+	20329A5D1F3D93D0003CB316 /* pcsclite.h */ = {
+		isa = PBXFileReference;
+		name = pcsclite.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/PCSC.framework/Versions/A/Headers/pcsclite.h;
+		sourceTree = "<absolute>";
+	};
+	20329A5E1F3D93D0003CB316 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 20329A101F3D9014003CB316 /* reader.h */;
+		name = "reader.h: 39";
+		rLen = 0;
+		rLoc = 635;
+		rType = 0;
+		vrLen = 1090;
+		vrLoc = 3;
+	};
+	20329A5F1F3D93D0003CB316 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 20329A0E1F3D9014003CB316 /* 4DPlugin.cpp */;
+		name = "4DPlugin.cpp: 12";
+		rLen = 0;
+		rLoc = 306;
+		rType = 0;
+		vrLen = 1167;
+		vrLoc = 0;
+	};
+	20329A701F3D94B3003CB316 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 20329A0F1F3D9014003CB316 /* reader.cpp */;
+		name = "reader.cpp: 182";
+		rLen = 0;
+		rLoc = 5231;
+		rType = 0;
+		vrLen = 1880;
+		vrLoc = 1534;
+	};
+	20329A711F3D94B3003CB316 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C167EFE841241C02AAC07 /* English */;
+		name = "InfoPlist.strings: 6";
+		rLen = 0;
+		rLoc = 191;
+		rType = 0;
+		vrLen = 191;
+		vrLoc = 0;
+	};
+	20329A751F3D94CE003CB316 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C167EFE841241C02AAC07 /* English */;
+		name = "InfoPlist.strings: 6";
+		rLen = 0;
+		rLoc = 191;
+		rType = 0;
+		vrLen = 191;
+		vrLoc = 0;
+	};
+	8D01CCC60486CAD60068D4B7 /* RFIDReader */ = {
+		activeExec = 0;
+	};
+}

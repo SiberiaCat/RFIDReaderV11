@@ -194,7 +194,11 @@ PA_long32 CReader::ValidContext()
 {
     PA_long32 returnValue = SCARD_E_INVALID_HANDLE;
     if (_context != 0) {
+#if VERSIONWIN
         returnValue = SCardIsValidContext(_context);
+#elif VERSIONMAC
+		returnValue = SCARD_S_SUCCESS;
+#endif
     }
     return returnValue;
 }

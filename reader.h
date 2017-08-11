@@ -27,6 +27,7 @@
 	#include <PCSC/wintypes.h>
 	#include <PCSC/pcsclite.h>
 	typedef LPSTR LPWSTR;
+	#define SCARD_PROTOCOL_UNDEFINED 0x0000	/**< protocol not set */ 
 #endif
 
 typedef long PA_long32;

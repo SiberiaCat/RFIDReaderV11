@@ -1,0 +1,5 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleName = "RFIDReader";
+CFBundleShortVersionString = "2.1";
+CFBundleGetInfoString = "RFIDReader version 2.1, Copyright 2017 Procedia GmbH.";
